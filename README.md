@@ -4,6 +4,9 @@ The Process Simulator is a Python application that provides an intuitive interfa
 
 ## Features
 
+![image](https://github.com/pin-z/Process-Simulator/assets/76646611/73cd7d66-4bdd-4e38-b0c9-9fb4ea4aa91d)
+
+
 1. **Login System**: Users can log in with a username and password to access the simulator.
 
 2. **Process Listing**: Displays a list of currently running processes along with their details.
